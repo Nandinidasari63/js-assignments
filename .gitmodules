@@ -1,3 +1,39 @@
 [submodule "js-head-Nandinidasari63"]
 	path = js-head-Nandinidasari63
 	url = git@github.com:step-batch-11/js-head-Nandinidasari63.git
+[submodule "cat-example"]
+	path = cat-example
+	url = git@github.com:step-batch-11/cat-example.git
+[submodule "js-inventory-Nandinidasari63"]
+	path = js-inventory-Nandinidasari63
+	url = git@github.com:step-batch-11/js-inventory-Nandinidasari63.git
+[submodule "js-mul-Nandinidasari63"]
+	path = js-mul-Nandinidasari63
+	url = git@github.com:step-batch-11/js-mul-Nandinidasari63.git
+[submodule "js-number-to-words-Nandinidasari63"]
+	path = js-number-to-words-Nandinidasari63
+	url = git@github.com:step-batch-11/js-number-to-words-Nandinidasari63.git
+[submodule "js-poker-classification-Nandinidasari63"]
+	path = js-poker-classification-Nandinidasari63
+	url = git@github.com:step-batch-11/js-poker-classification-Nandinidasari63.git
+[submodule "js-rover-Nandinidasari63"]
+	path = js-rover-Nandinidasari63
+	url = git@github.com:step-batch-11/js-rover-Nandinidasari63.git
+[submodule "js-tail-Nandinidasari63"]
+	path = js-tail-Nandinidasari63
+	url = git@github.com:step-batch-11/js-tail-Nandinidasari63.git
+[submodule "js-tcp-counter-Nandinidasari63"]
+	path = js-tcp-counter-Nandinidasari63
+	url = git@github.com:step-batch-11/js-tcp-counter-Nandinidasari63.git
+[submodule "js-terminal-todo-Nandinidasari63"]
+	path = js-terminal-todo-Nandinidasari63
+	url = git@github.com:step-batch-11/js-terminal-todo-Nandinidasari63.git
+[submodule "js-waada-finance-Nandinidasari63"]
+	path = js-waada-finance-Nandinidasari63
+	url = git@github.com:step-batch-11/js-waada-finance-Nandinidasari63.git
+[submodule "nova-web-Nandinidasari63"]
+	path = nova-web-Nandinidasari63
+	url = git@github.com:step-batch-11/nova-web-Nandinidasari63.git
+[submodule "tyreing-Nandinidasari63"]
+	path = tyreing-Nandinidasari63
+	url = git@github.com:step-batch-11/tyreing-Nandinidasari63.git
